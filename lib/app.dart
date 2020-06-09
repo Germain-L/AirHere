@@ -1,6 +1,4 @@
 import 'package:airhere/data/library_provider.dart';
-import 'package:airhere/database/readAirInternet.dart';
-import 'package:airhere/main.dart';
 import 'package:airhere/pages/dashboard.dart';
 import 'package:airhere/pages/library.dart';
 import 'package:airhere/pages/map.dart';

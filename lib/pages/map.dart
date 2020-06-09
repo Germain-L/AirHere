@@ -1,9 +1,7 @@
 import 'dart:async';
 
 import 'package:airhere/api_keys.dart';
-import 'package:airhere/data/saved_requests.dart';
 import 'package:airhere/main.dart';
-import 'package:airhere/widgets/aqi_block.dart';
 import 'package:airhere/widgets/location_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';

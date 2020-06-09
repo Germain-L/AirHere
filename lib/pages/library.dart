@@ -1,13 +1,7 @@
 import 'package:airhere/data/library_provider.dart';
-import 'package:airhere/data/saved_requests.dart';
-import 'package:airhere/database/deleteAirInternet.dart';
-import 'package:airhere/database/readAirInternet.dart';
-import 'package:airhere/pages/manage.dart';
-import 'package:airhere/widgets/aqi_block.dart';
 import 'package:airhere/widgets/location_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:google_maps_flutter/google_maps_flutter.dart';
-import 'package:line_icons/line_icons.dart';
 import 'package:provider/provider.dart';
 
 class Library2 extends StatelessWidget {

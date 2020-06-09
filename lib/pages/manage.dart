@@ -1,7 +1,4 @@
 import 'package:airhere/data/library_provider.dart';
-import 'package:airhere/database/deleteAirInternet.dart';
-import 'package:airhere/database/readAirInternet.dart';
-import 'package:airhere/main.dart';
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 
