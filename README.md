@@ -1,16 +1,26 @@
-# airhere
+# AirHere
 
-A new Flutter project.
+## About <a name = "about"></a>
 
-## Getting Started
+This was a Computer science A-Level project that i carried on maintaning,
 
-This project is a starting point for a Flutter application.
+It uses REST APIs to request air quality data and the flutter framework to display them in a nice UI.
+Also makes some use of a firestore to keep track of a map of the air quality
 
-A few resources to get you started if this is your first Flutter project:
+## Getting Started <a name = "getting_started"></a>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+ - Clone this repository
+ - run `flutter create .`
+ - create the file `lib\api_keys.dart`
+ - set up a firebase project and add the required config / setup files
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Prerequisites
+
+```
+Just install flutter and vs code / android stidio
+```
+
+## Usage <a name = "usage"></a>
+
+App available on the play store:
+ - https://play.google.com/store/apps/details?id=com.germainleignel.airhere
