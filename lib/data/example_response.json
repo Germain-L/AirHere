@@ -1,0 +1,75 @@
+{
+    "status":"ok",
+    "data":{
+       "aqi":52,
+       "idx":3161,
+       "attributions":[
+          {
+             "url":"http://uk-air.defra.gov.uk/",
+             "name":"UK-AIR, air quality information resource - Defra, UK",
+             "logo":"UK-Department-for-environment-food-and-rural-affairs.png"
+          },
+          {
+             "url":"https://waqi.info/",
+             "name":"World Air Quality Index Project"
+          }
+       ],
+       "city":{
+          "geo":[
+             52.437165,
+             -1.829999
+          ],
+          "name":"Birmingham Acocks Green, United Kingdom",
+          "url":"https://aqicn.org/city/united-kingdom/birmingham-acocks-green"
+       },
+       "dominentpol":"pm25",
+       "iaqi":{
+          "h":{
+             "v":96
+          },
+          "no2":{
+             "v":13.9
+          },
+          "o3":{
+             "v":14.8
+          },
+          "p":{
+             "v":996.1
+          },
+          "pm10":{
+             "v":15
+          },
+          "pm25":{
+             "v":52
+          },
+          "t":{
+             "v":3.5
+          },
+          "w":{
+             "v":7
+          },
+          "wg":{
+             "v":14.6
+          }
+       },
+       "time":{
+          "s":"2020-03-05 11:00:00",
+          "tz":"+00:00",
+          "v":1583406000
+       },
+       "debug":{
+          "sync":"2020-03-05T20:37:35+09:00"
+       }
+    }
+ }
+ {
+   {
+      "uid": 12508,
+      "aqi": 46,
+      "station": {
+         "name": "Guaratinguetá, São Paulo, Brazil",
+         "time": "2020-03-06T12:00:00-03:00"},
+      "lon": -45.19112236,
+      "lat": -22.801917139
+   }
+ }
